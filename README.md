@@ -11,9 +11,8 @@ A web application created for users looking to meet new friends or dates to atte
 * [Installation](#installation)
 * [Usage](#usage)
 * [Technologies](#Technologies)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Task Deligation](#Task Deligation)
+* [output](#output)
+* [Task-Deligation](#Task Deligation)
 * [Questions](#questions)
 
 
