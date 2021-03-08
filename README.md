@@ -1,7 +1,4 @@
-[![License: undefined]()]
-
-
-  # PLUSONE 
+# PLUSONE 
 
 
   ## Description 
@@ -40,8 +37,32 @@ express handlebars (displaying pet info)
 
 
 ## output 
+MAIN PAGE
+![Screen Shot 2021-03-07 at 10 56 10 PM](https://user-images.githubusercontent.com/70487513/110277943-45f54c80-7fa4-11eb-9b81-40bcbcbdf167.png)
 
 
+REGISTER PAGE
+![Screen Shot 2021-03-07 at 10 57 07 PM](https://user-images.githubusercontent.com/70487513/110277953-4b529700-7fa4-11eb-943f-f18b26212eda.png)
+
+
+USER TABLE
+![Screen Shot 2021-03-07 at 10 58 24 PM](https://user-images.githubusercontent.com/70487513/110277964-56a5c280-7fa4-11eb-9054-ef66af277cb4.png)
+
+
+LOGIN PAGE
+![Screen Shot 2021-03-07 at 10 58 56 PM](https://user-images.githubusercontent.com/70487513/110277966-59081c80-7fa4-11eb-81a7-d46f0c8fee3a.png)
+
+
+PROFILE PAGE
+![Screen Shot 2021-03-07 at 10 59 14 PM](https://user-images.githubusercontent.com/70487513/110277974-5c030d00-7fa4-11eb-99db-d7b173bd725a.png)
+
+
+CREATE EVENT PAGE
+![Screen Shot 2021-03-07 at 11 00 34 PM](https://user-images.githubusercontent.com/70487513/110277984-602f2a80-7fa4-11eb-853a-57ef10d0aef5.png)
+
+
+![Screen Shot 2021-03-07 at 11 01 12 PM](https://user-images.githubusercontent.com/70487513/110278007-6b825600-7fa4-11eb-81e0-7b355a8220b5.png)
+![Screen Shot 2021-03-07 at 11 01 45 PM](https://user-images.githubusercontent.com/70487513/110278014-71783700-7fa4-11eb-9246-66c539b40a3c.png)
   
 
 ## Task Deligation 
