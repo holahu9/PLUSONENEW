@@ -33,7 +33,7 @@ Additional packages:
 dotenv (hide API keys)
 sequelize
 bcrypt (hashing)
-express handlebars (displaying pet info)
+express handlebars (displaying info)
 
 
 ## output 
